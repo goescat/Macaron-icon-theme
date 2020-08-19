@@ -4,7 +4,7 @@ Comment=Flat and soft color icon pack theme
 Inherits=gnome,hicolor
 Example=folder
 
-Directories=256x256/places,48x48/apps
+Directories=48x48/places,48x48/apps
 
 [48x48/places]
 Size=64
