@@ -1,0 +1,20 @@
+[Icon Theme]
+Name=Macaron
+Comment=Flat and soft color icon pack theme
+Inherits=gnome,hicolor
+Example=folder
+
+Directories=256x256/places,48x48/apps
+
+[256x256/places]
+Size=256
+Context=Places
+Type=Fixed
+
+[48x48/apps]
+Size=48
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
+
